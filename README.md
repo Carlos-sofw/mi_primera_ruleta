@@ -39,7 +39,10 @@ Esta pensado para:
 (5) Revisa el archivo generado
 
 
+
 <img width="574" height="159" alt="Captura de pantalla 2026-01-30 171113" src="https://github.com/user-attachments/assets/6dbb2d46-2fe0-41be-80bd-c24149144a8e" />
+
+
 
 
 "Archivos generados"
@@ -48,7 +51,6 @@ Esta pensado para:
 (3) El historial de asignaciones
 
 "Beneficios"
-
 (1) Ahorrar tiempo
 (2) Evitar favoritismo
 (3) Ideal para educacion
